@@ -1,0 +1,21 @@
+.blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.plum {
+    background-color: plum;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    }
+
+    #green {
+        font-size: 24px;
+        font-weight: bolder;
+        background-color: aquamarine;
+    }
+
+    .Tahoma {
+        background-color: plum;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;        
+    }
